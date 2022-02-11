@@ -2,6 +2,8 @@
 
 This is a repo code for my code from [here](https://www.bilibili.com/video/BV1rL411E7uz)
 
+### This is a offline data-warehouse, the data will refresh daily.
+
 Tools:
 
 - 3 nodes(VM)

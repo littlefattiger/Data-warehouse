@@ -24,4 +24,4 @@ Tools:
 - Solr: 7.7.0: Search engineer. Similar as Elasticsearch
 
 ## Overview
-![image]()
+![image](https://github.com/littlefattiger/Data-warehouse/blob/main/offline_Warehouse.png)

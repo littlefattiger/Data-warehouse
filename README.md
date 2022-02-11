@@ -23,5 +23,5 @@ Tools:
 - Ranger: 2.0.0 -> role manager
 - Solr: 7.7.0: Search engineer. Similar as Elasticsearch
 
-## Overview
+## Overview/Offline warehouse
 ![image](https://github.com/littlefattiger/Data-warehouse/blob/main/offline_Warehouse.png)

@@ -2,6 +2,13 @@
 
 This is a repo code for my code from [here](https://www.bilibili.com/video/BV1rL411E7uz)
 
+Main idea:
+- Collect logging and behaviour by using flume
+- Dimension data is store in Hbase because it is easy to extract
+- Using Kafka to do message queue and pass data
+- once data is in HIve, all DB process, by using script daily or arzkaban. Easy now.
+- Finally we can do a display
+
 ### This is a offline data-warehouse, the data will refresh daily.
 
 Tools:
